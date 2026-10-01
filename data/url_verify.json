@@ -1,0 +1,11 @@
+{
+  "360safe": true, "chrome": true, "coccoc": true, "desktopcal": true, "dingtalk": true,
+  "doubao": true, "emeditor": true, "feishu": true, "go": true, "jianying": true,
+  "meitu": true, "nodejs": true, "postgresql": true, "python": true, "qwenwork": true,
+  "sogou": true, "sunlogin": true, "teamviewer": true, "todesk": true, "trae": true,
+  "zed": true, "zen": true,
+  "wb115": true, "ahs": true, "audacity": true, "idm": true, "deskflow": true,
+  "msedge": true, "xwechat": true, "lmstudio": true, "yuanbao": true,
+  "discord": false, "genspark": false, "metaquotes": false, "zcode": false,
+  "workbuddy": false, "whatsapp": false
+}
